@@ -29,7 +29,7 @@ This Java application generates QR codes based on user input and displays them i
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/QRCodeGenerator.git
+   git clone https://github.com/dharmikchhatbar/QR-Code-Generator.git
 2.	Compile the project:
    Use your preferred Java IDE (e.g., IntelliJ IDEA, NetBeans) to open and compile the project.
 3.	Run the application:
